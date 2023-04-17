@@ -35,7 +35,7 @@ Total 8 attributes are provided in the data set including the target variable i.
   </tr>
   <tr>
     <td>Weekly_Sales</td>
-    <td>The sales of the given store in the given week</td>
+    <td>The sales of a given store in a given week</td>
   </tr>
   <tr>
     <td>Date</td>
@@ -59,7 +59,7 @@ Total 8 attributes are provided in the data set including the target variable i.
   </tr>
   <tr>
     <td>IsHoliday_Flag</td>
-    <td>Whether the week is a special holiday week or not</td>
+    <td>Whether the week of sales is a special holiday week or not</td>
   </tr>
 </table>
 
