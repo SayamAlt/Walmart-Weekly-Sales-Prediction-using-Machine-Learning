@@ -1,4 +1,4 @@
-## About Dataset
+## Problem Statement
 
 ![Walmart Supercentre](https://raw.githubusercontent.com/Masterx-AI/Project_Retail_Analysis_with_Walmart/main/Wallmart1.jpg)
 
