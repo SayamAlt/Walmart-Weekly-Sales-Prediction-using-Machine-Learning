@@ -22,7 +22,7 @@ We have historical sales data for 45 Walmart stores located in different regions
 
 ## Dataset Details
 
-Total 8 attributes are provided in the data set including the target variable i.e. the weekly sales generated in a particular store.
+Total 8 attributes are provided in the data set including the target variable i.e. the weekly sales generated in the store.
 
 <table>
   <tr>
