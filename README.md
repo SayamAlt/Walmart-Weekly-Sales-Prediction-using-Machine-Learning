@@ -8,8 +8,6 @@ Throughout the year, Walmart hosts a number of promotional markdown sales. The f
 
 Walmart is the world's largest company by revenue, with about US$570 billion in annual revenue, according to the Fortune Global 500 list in May 2022.
 
-Walmart, one of the top retailers in the US, would like to make accurate sales and demand predictions. Each day, specific occasions and holidays have an impact on sales. Data on sales are available for 45 Walmart locations. Unforeseen demand is a hurdle for the company, and occasionally stock runs out because of a bad machine learning system. A perfect machine learning algorithm will precisely estimate demand and take into account variables like the CPI, unemployment rate, and other economic indicators.
-
 Conventional retail stores still play a prominent role in a world dominated by Ecommerce. Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. From groceries to clothing to electronics, customers keep flooding the gates of retail stores to satisfy their needs. As time has passed, retailers have had to evolve in order to keep up with changes in demands and the ever-changing mindset of customers. One such retail industry juggernaut that has kept up with the demands of customers as well changed the face of the retail industry for the better is Walmart Inc.
 
 Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores, headquartered in Bentonville, Arkansas. They have many stores across the globe and it is the largest retail company by revenue.
@@ -19,6 +17,10 @@ In addition, Walmart runs several promotional markdown events throughout the yea
 As of July 31, 2022, Walmart has 10,585 stores and clubs in 24 countries, operating under 46 different names. Out of which we have chosen 45 stores for basic analysis.
 
 We have historical sales data for 45 Walmart stores located in different regions. Apart from these, weekly data of Fuel price, Holiday, Temperature with some other features are also present in the data set.
+
+Walmart, one of the top retailers in the US, would like to make accurate sales and demand predictions. Each day, specific occasions and holidays have an impact on sales. Data on sales are available for 45 Walmart locations. Unforeseen demand is a hurdle for the company, and occasionally stock runs out because of a bad machine learning system. A perfect machine learning algorithm will precisely estimate demand and take into account variables like the CPI, unemployment rate, and other economic indicators.
+
+Using the aforementioned features, we have to predict the weekly sales obtained in various stores.
 
 ## Dataset Details
 
@@ -62,8 +64,6 @@ Total 8 attributes are provided in the data set including the target variable i.
     <td>Whether the week of sales is a special holiday week or not</td>
   </tr>
 </table>
-
-Using the aforementioned features, we have to predict the weekly sales of the store with the given parameters.
 
 ## How Walmart uses Big Data?
 
