@@ -43,7 +43,7 @@ Total 8 attributes are provided in the data set including the target variable i.
   </tr>
   <tr>
     <td>Temperature</td>
-    <td>Average temperature in the store region (in ℉) during the week of sales</td>
+    <td>Average temperature in a store region (in ℉) during the week of sales</td>
   </tr>
   <tr>
     <td>FuelPrice</td>
@@ -55,7 +55,7 @@ Total 8 attributes are provided in the data set including the target variable i.
   </tr>
   <tr>
     <td>Unemployment</td>
-    <td>Unemployment rate of the given store region</td>
+    <td>Unemployment rate of a given store region</td>
   </tr>
   <tr>
     <td>IsHoliday_Flag</td>
